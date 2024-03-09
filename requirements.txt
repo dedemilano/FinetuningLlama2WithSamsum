@@ -1,0 +1,16 @@
+datasets
+transformers
+accelerate
+sentencepiece
+llama-recipes
+protobuf
+py7zr
+scipy
+peft
+bitsandbytes
+fire
+torch_tb_profiler
+ipywidgets
+triton
+deepspeed-mii 
+wandb 
